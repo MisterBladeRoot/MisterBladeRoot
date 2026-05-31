@@ -22,9 +22,6 @@
 
 <br>
 
-## STACK
-
-| Layer | Tools |
 
 
 </div>
